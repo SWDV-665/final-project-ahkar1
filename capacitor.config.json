@@ -1,0 +1,13 @@
+{
+  "appId": "com.matthias.paintballinventory",
+  "appName": "paintballinvetory",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "public",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000
+    }
+  },
+  "cordova": {}
+}
